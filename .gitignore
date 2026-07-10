@@ -150,3 +150,10 @@ src/mashlib-local/
 
 # Server data directory
 data/
+
+# Agent tooling ephemera (never commit)
+.claude-flow/
+.agentic-qe/
+.swarm/
+.hive-mind/
+*.session.json
